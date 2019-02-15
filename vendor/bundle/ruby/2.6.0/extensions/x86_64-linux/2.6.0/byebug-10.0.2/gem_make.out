@@ -1,0 +1,19 @@
+current directory: /home/thongnq0906/rails_start/vendor/bundle/ruby/2.6.0/gems/byebug-10.0.2/ext/byebug
+/home/thongnq0906/.rvm/rubies/ruby-2.6.0/bin/ruby -I /home/thongnq0906/.rvm/rubies/ruby-2.6.0/lib/ruby/2.6.0 -r ./siteconf20190214-6826-apsf9w.rb extconf.rb
+creating Makefile
+
+current directory: /home/thongnq0906/rails_start/vendor/bundle/ruby/2.6.0/gems/byebug-10.0.2/ext/byebug
+make "DESTDIR=" clean
+
+current directory: /home/thongnq0906/rails_start/vendor/bundle/ruby/2.6.0/gems/byebug-10.0.2/ext/byebug
+make "DESTDIR="
+compiling breakpoint.c
+compiling byebug.c
+compiling context.c
+compiling locker.c
+compiling threads.c
+linking shared-object byebug/byebug.so
+
+current directory: /home/thongnq0906/rails_start/vendor/bundle/ruby/2.6.0/gems/byebug-10.0.2/ext/byebug
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 byebug.so ./.gem.20190214-6826-1lyhvlc/byebug
